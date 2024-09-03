@@ -1,4 +1,4 @@
-I'm **@Xuuyuan**, From [FJNU (Fujian Normal University)](https://fjnu.edu.cn)
+I'm **@Xuuyuan**, From [FJNU (Fujian Normal University)](https://www.fjnu.edu.cn)
 
 Python / JavaScript
 
